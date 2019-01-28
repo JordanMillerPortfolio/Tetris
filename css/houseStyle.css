@@ -5,7 +5,10 @@
 	bottom: 5px;
 }
 
-#tetrisPiece {
+#tetrisPiece1,
+#tetrisPiece2,
+#tetrisPiece3,
+#tetrisPiece4 {
 	width: 32px;
 	visibility: hidden;
 }
